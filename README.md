@@ -14,4 +14,4 @@ API RESTful desenvolvida em **Java** com **Spring Boot**, focada no gerenciament
 1. Certifique-se de ter o Docker instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/Elizamuyu-tech/java-mongodb-docker-api.git](https://github.com/Elizamuyu-tech/java-mongodb-docker-api.git)
+   git clone https://github.com/Elizamuyu-tech/java-mongodb-docker-api.git
